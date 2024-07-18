@@ -4,4 +4,6 @@ In this repository, the lid-driven cavity problem is solved using the Crank-Nico
 
 **Problem**: Consider two-dimensional unsteady flow in a square domain with Dirichlet boundary conditions on all sides, with three stationary sides and one moving side. Based on the lid velocity $U$ and the cavity height (or width) $H$, Reynolds number can be defined as Re = $\frac{UH}{\nu}$, where $\nu$ is the kinematic viscosity. The velocity of the impulsively started lid is given by a step function $u_{lid} = U$ for $t \geq 0$ and $u_{lid} = 0$ for $t < 0$. 
 
+<p align="center">
 <img width="400" alt="Screenshot 2024-07-18 at 2 03 34 PM" src="https://github.com/user-attachments/assets/fe545c64-e016-4406-a8c4-e34d76fc40ff">
+</p>
