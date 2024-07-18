@@ -1,3 +1,4 @@
+% SangMok Han, Turbulence Lab, Yonsei University, August 2023
 function p = pressure_Poisson(b,Nx,Ny,dx,dy)
     persistent Laplacian
     

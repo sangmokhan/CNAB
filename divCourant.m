@@ -1,3 +1,4 @@
+% SangMok Han, Turbulence Lab, Yonsei University, August 2023
 function [div,courant] = divCourant(Nx,Ny,dt,dx,dy,u,v)
     div = zeros(Nx+1,Ny+1);
     

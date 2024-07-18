@@ -1,3 +1,4 @@
+% SangMok Han, Turbulence Lab, Yonsei University, August 2023
 function plot_results(x,y,u,v,psi,omega,p)
     % Stream function
     figure;

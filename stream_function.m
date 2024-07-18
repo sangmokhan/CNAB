@@ -1,3 +1,4 @@
+% SangMok Han, Turbulence Lab, Yonsei University, August 2023
 function [psi] = stream_function(Nx,Ny,dx,v)
     psi = zeros(Nx,Ny);
 

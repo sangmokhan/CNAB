@@ -1,3 +1,4 @@
+% SangMok Han, Turbulence Lab, Yonsei University, August 2023
 function [omega] = vorticity(Nx,Ny,dx,dy,u,v)
     omega = zeros(Nx,Ny);
 
